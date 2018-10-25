@@ -8,7 +8,7 @@ Chaque élève a besoin de :
 * Disposer d'un compte Azure
 * D'avoir installé le client *az* sur son poste
 
-# Plan
+# Notions abordées dans la journée
 
 ## Gestion d'un cluster
 
